@@ -19,6 +19,7 @@ function restart() {
   rocketDistanceFromBottom = 0;
 }
 
+// function to start animation
 async function startAnimation() {
   var i = 0;
   while (i < 500) {
