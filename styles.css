@@ -1,0 +1,8 @@
+#rocket {
+  transform: scale(-1, 1);
+  position: absolute;
+  bottom: 0px;
+  right: calc(50vw - 50px);
+  width: 100px;
+  /* border: 1px solid black; */
+}
